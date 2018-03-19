@@ -88,7 +88,10 @@ print("can read it")
 
 
 ```python
-#len(pymoli)
+print("Observations on Pymoli Data\n")
+print("1. The average player spent just under $4. Our “whales” averaged over $13. While bringing in more players is important- a heavier focus should be on increasing spending among existing players."\n)
+print("2. Older players, 36-43, typically spent the most as individuals, though make up a very small number of players. Focusing on bring in these older players, along with their expendable income, may have greater impact that bringing in younger players who spend less."\n)
+print("3. 'Final Critic' was the most popular, but also our most expensive item available. Why? Good in game stats? Does it look frickin’ sick? Figure out what’s going on there and do more of it. That item is a gold mine.")
 ```
 
 
